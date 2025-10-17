@@ -1,4 +1,5 @@
 Vehicle Rental System - Rent Pro
+
 A modern, full-featured web application for managing vehicle rentals. Built with React and Vite, this project provides a fast, responsive, and user-friendly interface for both customers and administrators. Users can browse vehicles, make bookings, and manage their accounts, while administrators have access to a dashboard for managing inventory, bookings, and generating reports.
 
 ✨ Key Features
